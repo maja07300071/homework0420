@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="homework_1/homework_1.csproj" />
+  <Project Path="homework_2/homework_2.csproj" />
+  <Project Path="homework_3/homework_3.csproj" Id="e001da1c-7b0d-4859-b2fd-ace9ab55ce53" />
+  <Project Path="homework_4/homework_4.csproj" Id="2cb2c1e3-4da3-4c3d-b897-edef62b6ed41" />
+  <Project Path="homework_5/homework_5.csproj" Id="c7d32840-b0f1-4d7d-b4cd-70ddb17f16c6" />
+  <Project Path="homework_6_1/homework_6_1.csproj" Id="aefe9996-9f7e-41e2-9d19-9c31e33296eb" />
+  <Project Path="homework_6_2/homework_6_2.csproj" Id="f5df05ce-21b6-41d8-9270-1ab88c23f72c" />
+</Solution>
