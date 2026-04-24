@@ -1,0 +1,14 @@
+C:\Users\maja\Desktop\homework\homework\homework_3\bin\Debug\net10.0\homework_3.exe
+C:\Users\maja\Desktop\homework\homework\homework_3\bin\Debug\net10.0\homework_3.deps.json
+C:\Users\maja\Desktop\homework\homework\homework_3\bin\Debug\net10.0\homework_3.runtimeconfig.json
+C:\Users\maja\Desktop\homework\homework\homework_3\bin\Debug\net10.0\homework_3.dll
+C:\Users\maja\Desktop\homework\homework\homework_3\bin\Debug\net10.0\homework_3.pdb
+C:\Users\maja\Desktop\homework\homework\homework_3\obj\Debug\net10.0\homework_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maja\Desktop\homework\homework\homework_3\obj\Debug\net10.0\homework_3.AssemblyInfoInputs.cache
+C:\Users\maja\Desktop\homework\homework\homework_3\obj\Debug\net10.0\homework_3.AssemblyInfo.cs
+C:\Users\maja\Desktop\homework\homework\homework_3\obj\Debug\net10.0\homework_3.csproj.CoreCompileInputs.cache
+C:\Users\maja\Desktop\homework\homework\homework_3\obj\Debug\net10.0\homework_3.dll
+C:\Users\maja\Desktop\homework\homework\homework_3\obj\Debug\net10.0\refint\homework_3.dll
+C:\Users\maja\Desktop\homework\homework\homework_3\obj\Debug\net10.0\homework_3.pdb
+C:\Users\maja\Desktop\homework\homework\homework_3\obj\Debug\net10.0\homework_3.genruntimeconfig.cache
+C:\Users\maja\Desktop\homework\homework\homework_3\obj\Debug\net10.0\ref\homework_3.dll
