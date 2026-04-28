@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            //註解123
             Console.WriteLine("請輸入數字(用,分隔)：");
             string input = Console.ReadLine();
             string[] numStr = input.Split(',');
