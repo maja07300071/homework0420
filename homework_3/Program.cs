@@ -8,16 +8,11 @@
             string input = Console.ReadLine();
 
             string[] numStr = input.Split(',');
-            int[] numArr = new int[numStr.Length];
+            string[] reversed = new string[numStr.Length];
+
             for (int i = 0; i < numStr.Length; i++)
             {
-                numArr[i] = int.Parse(numStr[i]);
-            }
-            int[] reversed = new int[numArr.Length];
-
-            for (int i = 0; i < numArr.Length; i++)
-            {
-                reversed[i] = numArr[numArr.Length - 1 - i];
+                reversed[i] = numStr[numStr.Length - 1 - i];
             }
 
             Console.WriteLine(string.Join(",", reversed));
